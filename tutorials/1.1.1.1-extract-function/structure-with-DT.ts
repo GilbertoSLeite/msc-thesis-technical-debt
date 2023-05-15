@@ -2,7 +2,7 @@
 import { PersonalData } from '../../commons/customer-data';
 import { PolicyFinancialData } from '../../commons/policy-financial-data';
 
-export default class ExtractFunction {
+export default class PolicyStructuring {
   private policyValue: object;
 
   private  perCentum: number;
