@@ -1,6 +1,6 @@
 /* eslint-disable max-lines */
-import { PersonalData } from '../commons/customer-data';
-import { PolicyFinancialData } from '../commons/policy-financial-data';
+import { PersonalData } from '../../commons/customer-data';
+import { PolicyFinancialData } from '../../commons/policy-financial-data';
 
 export default class ExtractFunction {
   private policyValue: object;
